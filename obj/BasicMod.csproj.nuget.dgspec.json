@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\garre\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BasicMod\\BasicMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\garre\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BasicMod\\BasicMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\garre\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BasicMod\\BasicMod.csproj",
+        "projectName": "BasicMod",
+        "projectPath": "C:\\Users\\garre\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BasicMod\\BasicMod.csproj",
+        "packagesPath": "C:\\Users\\garre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\garre\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BasicMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\garre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

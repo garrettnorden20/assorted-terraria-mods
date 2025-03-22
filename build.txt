@@ -1,0 +1,3 @@
+displayName = Basic Mod
+author = gmanpizza
+version = 0.1
